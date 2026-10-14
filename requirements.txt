@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+pypdf
+rank-bm25
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
